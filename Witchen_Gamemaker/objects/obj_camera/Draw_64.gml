@@ -1,0 +1,1 @@
+draw_rectangle(810, 430 ,1110, 650, true)
